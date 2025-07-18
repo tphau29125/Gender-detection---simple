@@ -2,8 +2,10 @@
 Simple gender detection model
 
 Model: yolo_11
+Cre: https://github.com/ultralytics/ultralytics
 
 Dataset: Face-Gender-Recognition on Roboflow
+Cre: https://universe.roboflow.com/facegenderdetection/face-gender-recognition-cegug
 
 Class: 1-Man, 0-Woman
 
