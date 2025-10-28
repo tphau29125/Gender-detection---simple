@@ -84,4 +84,14 @@ Here’s a conceptual example of detection results:
 
 | Input Image      | Output Prediction      |
 |-----------------|---------------------|
-| ![Input](input_face.jpg)   | ![Output](output_face.jpg)      |
+| ![Output1](output_face1.png)   | ![Output2](output_face2.jpg)      |
+
+---
+
+## 📝 Notes
+
+The model is lightweight and intended for educational purposes.
+
+Accuracy may vary depending on face pose, lighting, and dataset diversity.
+
+Future updates will improve robustness and prediction accuracy.
