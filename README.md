@@ -80,12 +80,8 @@ Dataset: Roboflow – Face-Gender-Recognition
 
 ## 📸 Demo
 
-Here’s a conceptual example of detection results
-
-## 📸 Demo
-
 Here’s a conceptual example of detection results:
 
 | Input Image      | Output Prediction      |
 |-----------------|---------------------|
-| input_face.jpg   | output_face.jpg      |
+| ![Input](input_face.jpg)   | ![Output](output_face.jpg)      |
